@@ -1,29 +1,14 @@
 ## Hi there, I'm Malik Jouda 👋
-A tech enthusiast who loves to explore new technologies and leverage it to solve real-life problems 🎢👓;and loves learning more than one could 😀😀.
+Front-end developer with over 4 years of experience specializing in VueJS, NuxtJS, and Tailwind CSS. Skilled in building component-based architectures, implementing responsive web designs, and optimizing Core Web Vitals to enhance user experience.
 ## 🛠️ Technologies & Tools
-<ul>
-  <li>
-    <strong>Languages:</strong> HTML, CSS, Sass, JavaScript, TypeScript
-  </li>
-  <li>
-    <strong>Frameworks:</strong> Vue.js, Nuxt.js, Pinia, Tailwindcss, Bootstrap
-  </li>
-  <li>
-    <strong>Build Tools:</strong> Vite, Webpack
-  </li>
-  <li>
-    <strong>Software:</strong> Git, VSCode, Postman, Swagger, Figma, Lighthouse
-  </li>
-  <li>
-    <strong>Platforms:</strong> GitHub, GitLab, Netlify
-  </li>
-  <li>
-    <strong>Testing:</strong> Vitest, Cypress
-  </li>
-  <li>
-    <strong>Soft Skills:</strong>  Web performance, Accessibility, Agile, Problem solving
-  </li>
-</ul>
+- **Languages**: `HTML`, `CSS`, `Sass`, `JavaScript`, `TypeScript`
+- **Frameworks & Libraries**: `VueJS`, `NuxtJS`, `Nuxt-UI`, `Pinia`, `GSAP`, `Tailwind CSS`, `Bootstrap`, `jQuery`
+- **Template Engines**: `Twig`, `Blade`
+- **Build Tools**: `Vite`, `Webpack`
+- **Software**: `Git`, `VSCode`, `Postman`, `Swagger`, `MAMP`, `Figma`, `Lighthouse`
+- **Testing**: `Vitest`, `Cypress`
+- **Platforms**: `GitHub`, `GitLab`, `Netlify`, `AWS Amplify`
+- **Soft Skills**: `Problem-solving`, `Time Management`, `Communication`, `Learning Potential`
 
 ## NUXTER
 [![Malik-Jouda Nuxter profile](https://nuxters.nuxt.com/card/Malik-Jouda/og.png)](https://nuxters.nuxt.com/Malik-Jouda)
